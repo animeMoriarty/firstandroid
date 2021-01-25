@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Taxi</string>
+    <string name="autorization_title">Авторизация</string>
+    <string name="text_partners">Партнеры</string>
+    <string name="text_welcome">Добро пожаловать</string>
+    <string name="text_login">Логин</string>
+    <string name="text_password">Пароль</string>
+    <string name="text_sign">Войти</string>
+    <string name="text_register">Регистрация</string>
+    <string name="text_name">Имя</string>
+    <string name="text_surname">Фамилия</string>
+    <string name="text_repeat_password">Повторите пароль</string>
+    <string name="text_registers">Зарегистрироваться</string>
+    <string name="text_personal_sale">Персолнальная скидка</string>
+    <string name="text_podrobnee">Подробнее</string>
+    <string name="text_yandex_taxi">Яндекс Такси</string>
+    <string name="text_get_taxi">Get Taxi</string>
+    <string name="text_sitymobil_taxi">Ситимобил</string>
+    <string name="text_taximow_taxi">Taxi-Mow</string>
+    <string name="text_about_partners">О партнерах</string>
+    <string name="text_account">Аккаунт</string>
+    <string name="text_name_surname">Имя фамилия</string>
+    <string name="drawer_open">Открыт</string>
+    <string name="drawer_close">Закрыт</string>
+    <string name="partner_yandex">Яндекс Такси</string>
+    <string name="sale_yandex">27%</string>
+    <string name="text_yandex">
+        Каждая поездка +0,5%(До 60%) "\n""\n"
+        Поездок: 54 "\n""\n"
+        До максимальной скидки:66 поездок</string>
+    <string name="partner_sity_mobil">Ситимобил</string>
+    <string name="sale_sity_mobil">6%</string>
+    <string name="text_sity_mobil">Каждая поездка +0,3%(До 50%)"\n""\n"  Поездок: 20 "\n""\n" До максимальной скидки:146 поездок</string>
+    <string name="partner_get_taxi">Get Taxi</string>
+    <string name="sale_get_taxi">12%</string>
+    <string name="text_get__taxi">Каждая поездка +0,6%(До 35%)"\n""\n" Поездок: 20"\n""\n" До максимальной скидки:39 поездок</string>
+    <string name="partner_taxi_mow">Taxi-Mow</string>
+    <string name="sale_taxi_mow">2%</string>
+    <string name="text_taxi_mow">Каждая поездка +0,2%(До 25%)"\n""\n" Поездок: 10"\n""\n" До максимальной скидки:115 поездок</string>
+    <string name="about_partner">О партнерах</string>
+    <string name="text_about_partner">
+        Gett – международный сервис для вызова такси. С первого дня работы мы очень ответственно подходим к отбору водителей, которым разрешено подключаться к сервису.
+Нам важно, кто Вас везёт!"\n\n"
+
+Яндекс Такси – это сервис- агрегатор, который помогает связаться с водителем службы такси напрямую, не обращаясь при этом к диспетчеру."\n" "\n"
+
+Ситимобил – Один из ведущих сервисов заказа такси. Доступные цены, опытные водители, высокие стандарты обслуживания."\n" "\n"
+
+Taxi-Mow – такси по Москве и Московской области. Компания специализируется на выполнении предварительных заказов по бронированию автомобилей такси и встрече в Международных Аэропортах «Домодедово», Шереметьево и Внуково и доставке пассажиров в аэропорт.
+    </string>
+    <string name="text_about_app">О приложении</string>
+    <string name="about_app">
+        Приложение разработано совместно с «Партнерами» во время пандемии, чтобы "\n" "\n"обезопасить людей, которые ездят на общественном транспорте. "\n" "\n"Партнеры предоставляют скидка на проезд.
+        "\n" "\n"Ставка скидок фиксирована, т.е. при достижении максимальной скидки, она не сгорается.
+    </string>
+    <string name="text_upload_cvitance">Загрузить квитанцию</string>
+    <string name="text_o_chemto">О чемто</string>
+    <string name="text_select_file">Выбрать файл</string>
+    <string name="text_file_no">Вы не выбрали файл</string>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/item_yandex_taxi"
+        android:title="@string/text_yandex_taxi"/>
+    <item
+        android:id="@+id/item_get_taxi"
+        android:title="@string/text_get_taxi"/>
+    <item
+        android:id="@+id/item_sitymobil_taxi"
+        android:title="@string/text_sitymobil_taxi"/>
+    <item
+        android:id="@+id/item_taximow_taxi"
+        android:title="@string/text_taximow_taxi"/>
+
+    <item android:title="Другое">
+        <menu>
+            <item
+                android:id="@+id/item_about_partners"
+                android:title="@string/text_about_partners"/>
+            <item
+                android:id="@+id/item_about_app"
+                android:title="@string/text_about_app"/>
+        </menu>
+    </item>
+</menu>
