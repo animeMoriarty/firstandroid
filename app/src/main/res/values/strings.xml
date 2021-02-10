@@ -11,7 +11,7 @@
     <string name="text_surname">Фамилия</string>
     <string name="text_repeat_password">Повторите пароль</string>
     <string name="text_registers">Зарегистрироваться</string>
-    <string name="text_personal_sale">Персолнальная скидка</string>
+    <string name="text_personal_sale">Персональная скидка</string>
     <string name="text_podrobnee">Подробнее</string>
     <string name="text_yandex_taxi">Яндекс Такси</string>
     <string name="text_get_taxi">Get Taxi</string>
@@ -54,7 +54,7 @@ Taxi-Mow – такси по Москве и Московской области
         "\n" "\n"Ставка скидок фиксирована, т.е. при достижении максимальной скидки, она не сгорается.
     </string>
     <string name="text_upload_cvitance">Загрузить квитанцию</string>
-    <string name="text_o_chemto">О чемто</string>
+    <string name="text_o_chemto">О приложении</string>
     <string name="text_select_file">Выбрать файл</string>
     <string name="text_file_no">Вы не выбрали файл</string>
 
